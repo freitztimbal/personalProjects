@@ -349,7 +349,7 @@ body {
   <!--BEGIN: FOOTER -->
 	  <div class="card-footer text-muted">
 	     <div class="container text-center">
-		    © 2020. All rights reserved.
+		    Â© 2020. All rights reserved.
 		  </div>
 	 </div>
   <!--END: FOOTER -->		 
@@ -368,7 +368,7 @@ body {
     </script>
 
 	<script async defer 
-	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRngfUUWM0fQpz32raha-MRLqhqIQs-T0&callback=initMap">
+	src="https://maps.googleapis.com/maps/api/js?key=?&callback=initMap">
 	</script>
     
 </body>
